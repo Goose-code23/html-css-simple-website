@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main-nav li{
+    list-style-type: none;
+    display: inline;
+    float: right;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+.main-nav .name {
+    float: left;
+    padding-left: 20px;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+.header2{
+    padding-top: 120px;
+    padding-left: 20px;
+}
+
+.about-me-para{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+    max-width: 1000px;
+}
+
+.projectsDone{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.projects-list{
+    list-style-type: numeric;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+#skills{
+    padding-left: 20px;
+    padding-top: 40px;
+}
+
+.html-logo{
+    padding-top: 40px;
+    height: 60px;
+}
+.css-logo{
+    height: 60px;
+    padding-left: 20px;
+}
+
+.js-logo{
+    height: 60px;
+    padding-left: 20px;
+}
+
+.react-logo{
+    height: 60px;
+    padding-left: 20px;
+}
+
+.git-logo{
+    height: 60px;
+    padding-left: 20px;
+}
+
+.github{
+    height: 60px;
+    padding-left: 20px;
+}
+
+.GooseImages{
+    float: right;
+    height: 300px;
+    padding-top: 100px;
+    margin-right:  -280px;
+}
